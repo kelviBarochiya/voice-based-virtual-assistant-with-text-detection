@@ -1,0 +1,6 @@
+pip install easyocr
+pip install matplotlib
+pip install numpy
+pip install opencv-python
+pip install opencv-python pytesseract
+pip install tk
