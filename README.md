@@ -6,7 +6,7 @@ A voice-based virtual assistant is an AI-powered application that responds to sp
 
 1.Clone this repository to your local machine.
 ```bash
-https://github.com/kelviBarochiya/voice-based-virtual-assistant-with-image-detection.git
+https://github.com/kelviBarochiya/voice-based-virtual-assistant-with-text-detection.git
 ```
 
 2.Install the required dependencies by running the following command in the terminal:
